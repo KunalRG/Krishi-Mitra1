@@ -3,7 +3,6 @@ pandas
 Flask
 requests
 Pillow
-render_template
 Markup
 gunicorn == 20.0.4
 pickle
