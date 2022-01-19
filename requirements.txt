@@ -1,8 +1,10 @@
+Python == 3.8.4
+pip == 21.3.1
 numpy
 pandas
-Flask
+Flask ==2.0.2
 requests
 Pillow
 Markup
 gunicorn == 20.0.4
-
+Werkzeug == 2.0.2
