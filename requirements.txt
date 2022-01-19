@@ -5,4 +5,4 @@ requests
 Pillow
 Markup
 gunicorn == 20.0.4
-pickle
+
