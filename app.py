@@ -3,7 +3,7 @@ from fertilizer_dic import fertilizer_dic
 import numpy as np
 import pandas as pd
 import pickle
-
+import sklearn
 
 crop_recommendation_model_path = 'model/RandomForest.pkl'
 crop_recommendation_model = pickle.load(open(crop_recommendation_model_path, 'rb'))
