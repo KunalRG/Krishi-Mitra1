@@ -7,3 +7,4 @@ Pillow
 Markup
 gunicorn == 20.0.4
 Werkzeug == 2.0.2
+streamlit
