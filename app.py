@@ -12,10 +12,6 @@ crop_recommendation_model = pickle.load(open(crop_recommendation_model_path, 'rb
 app = Flask(__name__)
 
 
-@app.route('/hello')
-def hello():
-    return 'Hello, World!'
-
 @app.route("/")
 def index():
     return render_template('home.html')
